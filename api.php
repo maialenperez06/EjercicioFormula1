@@ -1,6 +1,5 @@
 <?php
 
-// Números de los pilotos que pide el enunciado
 $numerosPilotos = [16, 44];
 
 foreach ($numerosPilotos as $numero) {
